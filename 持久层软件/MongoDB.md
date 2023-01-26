@@ -35,3 +35,6 @@ mongod --dbpath=../data/db
 > [下载地址](https://studio3t.com/download/)
 
 下载后直接安装，没有什么特别的操作
+
+
+# 5、运行之后需要登录设置一下才能用
